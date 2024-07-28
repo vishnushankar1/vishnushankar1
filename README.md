@@ -1,7 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vishnu Shankar</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnushankar1&label=Profile%20views&color=0e75b6&style=flat" alt="vishnushankar1" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnushankar1&label=Profile%20views&color=0e75b6&style=flat" alt="vishnushankar1" /> </p>
 
@@ -18,6 +19,8 @@
 - 💬 Ask me about **ML, Python, &DL**
 
 - 📫 How to reach me **vankadarishankar@gmail.com**
+
+- - ⚡ Fun fact **I am Funny**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZW6w373rKoZpNp-lO4cHjsw28chhZkvh/view](https://drive.google.com/file/d/1ZW6w373rKoZpNp-lO4cHjsw28chhZkvh/view)
 
