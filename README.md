@@ -20,7 +20,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnushankar1&label=Profile%20views&color=0e75b6&style=flat" alt="vishnushankar1" /> </p>
-[![wakatime](https://wakatime.com/badge/user/22605127-f5cf-4d2d-8e7f-3b2ce87dd92e.svg)](https://wakatime.com/@22605127-f5cf-4d2d-8e7f-3b2ce87dd92e)
+
 
 
 <p align="left" style="margin: 20px;"> <!-- Adjust the margin as needed -->
